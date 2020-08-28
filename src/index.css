@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#navbar {
+  background-color: black;
+  color: white;
+}
+.jumbotron {
+  text-align: center;
+  background: linear-gradient(90deg, red, yellow, green);
+}
+
+#logo {
+  height: 90%;
+  width: 11%;
+  padding-right: .25rem;
+  padding-left: .25rem;
+}
