@@ -7,7 +7,7 @@ const Header = () => {
       <Row>
         <Col>
           <Jumbotron className="jumbotron">
-            <FadeIn delay="300">
+            <FadeIn delay="500">
               <span>An Inquisitive Problem Solver</span>
               <br />
               <span>With a Love of Learning,</span>

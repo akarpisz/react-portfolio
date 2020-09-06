@@ -27,3 +27,8 @@ code {
   padding-right: .25rem;
   padding-left: .25rem;
 }
+
+#portrait {
+  height: 100%;
+  width: 50%;
+}
