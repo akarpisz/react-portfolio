@@ -12,28 +12,24 @@ const ProfileCol = () => {
         <CardBody className="text-center">
           <img src={me} id="portrait" alt="andrew karpisz" />
         </CardBody>
-        <CardText>
-          <div>
-            Proficient In:
-            <ul>
-              <li>Javascript and NodeJS</li>
-              <li>ReactJS</li>
-              <li>MongoDB</li>
-              <li>MySQL</li>
-              <li>ExpressJS</li>
-              <li>REST APIs</li>
-              <li>HTML, CSS and CSS Frameworks</li>
-            </ul>
-          </div>
-          <div>
-            Next Step(s):
-            <ul>
-              <li>Bachelors in Computer Science</li>
-              then...
-              <li>Masters in Computer Science</li>
-            </ul>
-          </div>
-        </CardText>
+        <div>
+          Proficient In:
+          <ul>
+            <li>Javascript and NodeJS</li>
+            <li>ReactJS</li>
+            <li>MongoDB</li>
+            <li>MySQL</li>
+            <li>ExpressJS</li>
+            <li>REST APIs</li>
+            <li>HTML, CSS and CSS Frameworks</li>
+          </ul>
+          <span>Next Step(s):</span>
+          <ul>
+            <li>Bachelors in Computer Science</li>
+            then...
+            <li>Masters in Computer Science</li>
+          </ul>
+        </div>
       </Card>
     </Col>
   );
