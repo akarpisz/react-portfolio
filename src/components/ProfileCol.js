@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Card, CardHeader, CardBody, CardText } from "reactstrap";
+import { Col, Card, CardHeader, CardBody } from "reactstrap";
 import me from "./img/me.png";
 const ProfileCol = () => {
   return (
