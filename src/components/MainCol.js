@@ -63,13 +63,14 @@ const MainCol = () => {
         {/* <img src={null} alt="nothing yet"/> */}
       </CardBody>
       <CardText>
-        <span>Summary:</span>
+        <span>Summary: An application for travelers to share where they've been, and share where they're going next</span>
         <span>Technologies Used: </span>
         <ul>
           <li>NodeJS</li>
           <li>ExpressJS</li>
-          <li>MongoDB</li>
-          <li>IndexedDB</li>
+          <li>MySQL/Sequelize</li>
+          <li>Handlebars</li>
+          <li>JQuery</li>
         </ul>
         <a href="https://github.com/NekoCarreraDesigns/project-2">Github</a>
         <br/>
